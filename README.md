@@ -143,13 +143,6 @@ delay(100);  // Hızlı tepki (titreşim olabilir)
 delay(300);  // Ekstra stabil (yavaş tepki)
 ```
 
-## 🎥 Video Kayıt İpuçları
-
-- **Aydınlatma**: LED görünürlüğü için parlak ortam kullanın
-- **Kamera Açısı**: Kamerayı LED matrix'e 30° açıyla konumlandırın
-- **Mesafe**: Kamerayı kurulumdan 50-70cm uzakta tutun
-- **Arkaplan**: LED'lerin öne çıkması için koyu arkaplan kullanın
-- **Test Nesnesi**: Daha iyi sensör algılaması için beyaz/parlak nesneler kullanın
 
 ## 🐛 Sorun Giderme
 
