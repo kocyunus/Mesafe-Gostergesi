@@ -12,9 +12,9 @@ Arduino Uno, ultrasonik sensör (HC-SR04) ve 8x8 LED Matrix kullanarak gerçek z
 - **Anti-Flicker Teknolojisi**: Akıllı güncelleme algoritması LED titreşimini önler
 - **Stabil Ölçümler**: Doğru sonuçlar için 3 okumadan medyan filtreleme
 
-## 🎬 Demo
+##  Demo
 
-![Mesafe Sensörü Demo](demo.gif)
+![Mesafe Sensörü Demo](demo.png)
 
 *Nesneler sensöre yaklaştıkça LED sütunları azalır*
 
