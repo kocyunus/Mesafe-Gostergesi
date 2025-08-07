@@ -191,16 +191,6 @@ Katkılar memnuniyetle karşılanır! Lütfen Pull Request göndermekten çekinm
 
 Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için [LICENSE](LICENSE) dosyasına bakın.
 
-## 🙏 Teşekkürler
-
-- **Arduino Topluluğu**'na mükemmel dokümantasyon için
-- **LedControl Kütüphanesi** Eberhard Fahle'ye MAX7219 desteği için
-- **HC-SR04 Sensör** üreticilerine güvenilir mesafe algılama için
-
-## 📞 İletişim
-
-- **GitHub**: [@kullaniciadin](https://github.com/kullaniciadin)
-- **Email**: senin.mailin@ornek.com
 
 ---
 
