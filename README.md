@@ -187,11 +187,6 @@ Katkılar memnuniyetle karşılanır! Lütfen Pull Request göndermekten çekinm
 4. Branch'i push edin (`git push origin feature/HarikaBirOzellik`)
 5. Pull Request açın
 
-## 📄 Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için [LICENSE](LICENSE) dosyasına bakın.
-
-
 ---
 
 ⭐ **Bu repository'yi faydalı bulduysanız yıldızlamayı unutmayın!**
